@@ -1,0 +1,9 @@
+# Arquivo para colocar as depêndencias do projeto
+
+# Busca as Gems pelo site oficial
+source 'https://rubygems.org'
+
+#Indica para o Bundler quais projetos precisa
+gem 'lerolero_generator'
+gem 'cpf_utils'
+
